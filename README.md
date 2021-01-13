@@ -21,12 +21,20 @@ Below follows a table of content reminiscent of the dissertation with links to a
     *A detailed discussion of the participants of Lev 17-26, their distribution and links. The scripts and data produced for this chapter is stored in a sepearate repository.*
     
     * Scripts and data: [https://github.com/ch-jensen/participants](https://github.com/ch-jensen/participants)
-    * Full spreadsheet of the participants and their references: 
+    * Spreadsheet of the participants and their references: [Participants-and-references_Lev17-26.xlsx](https://github.com/ch-jensen/Roles-and-Relations/blob/main/Participants-and-references_Lev17-26.xlsx)
 
-4. chapter: Semantic roles
+4. chapter: **Semantic roles**
 
-5. chapter: Participants in social networks
+      *The chapter offers three developments: 1) A proposal of quantitative models for the study of Biblical Hebrew verbal aspect, 2) Particular studies of the verbal aspects dynamicity and causation, and 3) a hierarchy of semantic roles related to the notion of agency. The scripts and data produced for this chapter is stored in a sepearate repository.*
+   
+   * Scripts and data: https://github.com/ch-jensen/semantic-roles
 
-6. Summary and conclusions
+5. chapter: **Participants in social networks**
 
-Appendix
+      *The participants of Lev 17-26 are explored as a social network formed by the participants themselves and their internal relationships (conceptualized as interactions and realized by verbs). By doing so, the insights of chapter 3 and 4 are combined. The chapter concludes in a social network description of a selection of participants. The scripts and data produced for this chapter is stored in a sepearate repository.*
+
+   * Scripts and data: https://github.com/ch-jensen/SNA
+
+6. chapter: **Summary and conclusions**
+
+Appendix: A reader-friendly interlinear Hebrew text with most data produced in the research and documented in the dissertation. The dissertation itself only contains a sample (Lev 17). The full appendix is available here: [Full appendix.docx](https://github.com/ch-jensen/Roles-and-Relations/blob/main/Full%20appendix.docx)
