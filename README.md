@@ -1,2 +1,3 @@
-# Roles-and-References
-The main repository for storing scripts and data related to my PhD-research as well as links to subrepositories.
+# Roles and Relations
+
+This repository relates to my PhD-projekt "Roles and Relations 
