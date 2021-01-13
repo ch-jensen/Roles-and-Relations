@@ -1,10 +1,16 @@
+<img src="images/ETCBC%20logo.png" width="400" align="right">
+
 # Roles and Relations
 
-This repository relates to my PhD-projekt "Roles and Relations: A Study of Participant Tracking, Semantic Roles, and Social Networks in Leviticus 17–26" and contains the data and scripts for the research.
+This repository relates to my PhD-projekt "Roles and Relations: A Study of Participant Tracking, Semantic Roles, and Social Networks in Leviticus 17–26" and contains the data and scripts for the research. The research is carried out at the [Eep Talstra Centre for Bible and Computer](http://www.etcbc.nl) at Vrije Universiteit, Amsterdam.
 
-The research focuses on the Hebrew text of Leviticus 17-26 and explores the distrubution and linking of participants in the text as well as the semantic and social roles of the participants. The main contribution of the research, apart from the development of new methods for the interpretation of Biblical texts, is a deeper understanding of the roles and relationships among the participants of the text.
+<img src="images/tf.png" width="120" align="right">
+
+The research focuses on the Hebrew text of Leviticus 17-26 and explores the distrubution and linking of participants in the text as well as the semantic and social roles of the participants. The main contribution of the research, apart from the development of new methods for the interpretation of Biblical texts, is a deeper understanding of the roles and relationships among the participants of the text. The computational part of the research is carried out on the [BHSA](https://etcbc.github.io/bhsa/) corpus of the Hebrew Bible using the Python3 package [text-fabric](https://annotation.github.io/text-fabric/).
 
 Below follows a table of content reminiscent of the dissertation with links to appendices and subrepositories containing scripts and datasets
+
+<img src="images/SNA_Leviticus.png" width="400" align="right">
 
 ## Content
 
