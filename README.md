@@ -39,4 +39,4 @@ The participants of Lev 17-26 are explored as a social network formed by the par
 ### Chapter 6: Summary and conclusions
 
 ### Appendix
-A reader-friendly interlinear Hebrew text with most data produced in the research and documented in the dissertation. The dissertation itself only contains a sample (Lev 17). The full appendix is available here: [Full appendix.docx](https://github.com/ch-jensen/Roles-and-Relations/blob/main/Full%20appendix.docx)
+A reader-friendly interlinear Hebrew text with most data produced in the research and documented in the dissertation. The dissertation itself only contains a sample (Lev 17). The full appendix is available here: [Full appendix.pdf](https://github.com/ch-jensen/Roles-and-Relations/blob/main/Full%20appendix.docx)
